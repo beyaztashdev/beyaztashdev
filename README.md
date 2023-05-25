@@ -56,3 +56,8 @@ I am a Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplc
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=beyaztashdev&theme=dark&background=000000&stroke=C201EB&ring=2CEB24&fire=EB39B7)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beyaztashdev)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beyaztashdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
