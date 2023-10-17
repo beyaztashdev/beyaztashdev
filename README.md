@@ -7,7 +7,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
+---
+
+### :man_technologist: About Me:
 
 I am a Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
@@ -17,11 +19,11 @@ I am a Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplc
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-beyaztash-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beyaztash/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-beyaztash-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beyaztash/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -39,16 +41,21 @@ I am a Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplc
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=beyaztashdev&show_icons=true&hide=prs,issues,contribs&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beyaztashdev&layout=compact&theme=dark)
 
-### Contact
-[![Linkedin](https://img.shields.io/badge/-Linkedin-333?style=for-the-badge&logo=Linkedin&logoColor=FF0000)]()
+---
+
+### Contact:
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-333?style=for-the-badge&logo=Linkedin&logoColor=FF0000)](https://www.linkedin.com/in/beyaztash/)
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/beyaztash)
 [![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/beyaztash)
 [![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/_beyaztash_)
-[![Twitter](https://img.shields.io/badge/-Twitter-333?style=for-the-badge&logo=Twitter&logoColor=B4068E)](https://Twitter.com/beyaztash)
+[![X](https://img.shields.io/badge/-X-333?style=for-the-badge&logo=X&logoColor=white)](https://Twitter.com/beyaztash)
+[![Discord](https://img.shields.io/badge/-Discord-333?style=for-the-badge&logo=Discord&logoColor=blue)](https://discordapp.com/users/275335782409961472)
 
+---
