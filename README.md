@@ -55,7 +55,7 @@ I am a Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplc
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/beyaztash)
 [![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/beyaztash)
 [![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/_beyaztash_)
-[![X](https://img.shields.io/badge/-X-333?style=for-the-badge&logo=X&logoColor=white)](https://Twitter.com/beyaztash)
+[![X](https://img.shields.io/badge/-X-333?style=for-the-badge&logo=X&logoColor=white)](https://Twitter.com/beyaztashdev)
 [![Discord](https://img.shields.io/badge/-Discord-333?style=for-the-badge&logo=Discord&logoColor=blue)](https://discordapp.com/users/275335782409961472)
 
 ---
