@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" width="900" height="400"/>
 </div>
 
 ---
@@ -43,9 +43,7 @@ I am a Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplc
 
 ### :fire: My Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=beyaztashdev&show_icons=true&hide=prs,issues,contribs&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beyaztashdev&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=beyaztashdev&show_icons=true&hide=prs,issues,contribs&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beyaztashdev&layout=compact&theme=dark)
 
 ---
 
