@@ -13,7 +13,7 @@
 
 I am a Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I learned software through these courses: [Neos Akademi](https://www.neosyazilim.com), [Udemy](https://www.udemy.com/course/komple-frontend-egitimi/), [Patika.dev](https://www.patika.dev).
 
 - :seedling: Exploring Technical Content Writing.
 
