@@ -1,43 +1,17 @@
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<h2>Hi, I'm Timur Beyaztaş!</h2>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" width="900" height="400"/>
-</div>
-
----
-
-### :man_technologist: About Me:
-
-I am a Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-
-- :telescope: I learned software through these courses: [Neos Akademi](https://www.neosyazilim.com), [Udemy](https://www.udemy.com/course/komple-frontend-egitimi/), [Patika.dev](https://www.patika.dev).
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-beyaztash-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beyaztash/)
-
----
-
-### :hammer_and_wrench: Languages and Tools:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Gulp](https://img.shields.io/badge/-Gulp-333?style=for-the-badge&logo=Gulp)  
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+```javascript
+const beyaztashdev = {
+  from: "Izmir/Turkey(Türkiye)",
+  title: ["Junior Front End Web Developer"],
+  code: ["HTML", "CSS", "SCSS", "SASS", "JavaScript"],
+  tools: ["React", "Bootstrap", "TailwindCSS", "Git", "Github", "Figma", "Photoshop"],
+  spokenLanguages: ["Turkish(Native)", "Russian(Native)", "Kazakh(Native)", "English(B1)"],
+  challenge: "I am doing the #100DaysOfCode challenge focused on JavaScript and React",
+  currentFocus: "No Focus point at this time",
+}
+```
 
 ---
 
