@@ -5,9 +5,9 @@
 const beyaztashdev = {
   from: "Izmir/Turkey(Türkiye)",
   title: ["Junior Front End Web Developer"],
+  spokenLanguages: ["Turkish(Native)", "Russian(Native)", "Kazakh(Native)", "English(B1)"],
   code: ["HTML", "CSS", "SCSS", "SASS", "JavaScript"],
   tools: ["React", "Bootstrap", "TailwindCSS", "Git", "Github", "Figma", "Photoshop"],
-  spokenLanguages: ["Turkish(Native)", "Russian(Native)", "Kazakh(Native)", "English(B1)"],
   challenge: "I am doing the #100DaysOfCode challenge focused on JavaScript and React",
   currentFocus: "No Focus point at this time",
 }
